@@ -1,16 +1,10 @@
-import { type ClassValue, clsx } from 'clsx';
-import { twMerge } from 'tailwind-merge';
-import { RootProvider } from 'fumadocs-ui/provider/react-router';
-import { DocsLayout } from 'fumadocs-ui/layouts/docs';
-import { HomeLayout } from 'fumadocs-ui/layouts/home';
-
 export const appName = '杨 ◦ 柳';
 export const docsRoute = '/docs';
+export const docsImageRoute = '/og/docs';
 export const docsContentRoute = '/llms.mdx/docs';
-export const docsApiRoute = '/api/docs';
-
-export { RootProvider, DocsLayout, HomeLayout };
-
-export function cn(...inputs: ClassValue[]) {
-  return twMerge(clsx(inputs));
-}
+// fill this with your actual GitHub info, for example:
+export const gitConfig = {
+  user: 'fuma-nama',
+  repo: 'fumadocs',
+  branch: 'main',
+};
