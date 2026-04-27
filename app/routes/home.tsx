@@ -4,8 +4,8 @@ import { baseOptions } from '@/lib/layout.shared';
 
 export function meta({ }: Route.MetaArgs) {
   return [
-    { title: '题库 ◦ 柳' },
-    { name: 'description', content: '题库 ◦ 柳' },
+    { title: '杨 ◦ 柳' },
+    { name: 'description', content: '杨 ◦ 柳' },
   ];
 }
 
