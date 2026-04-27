@@ -23,7 +23,7 @@ export async function loader({ params }: Route.LoaderArgs) {
   };
 }
 
-export const clientLoader = browserCollections.docs.createClientLoader({
+const clientLoader = browserCollections.docs.createClientLoader({
   component(
     { toc, frontmatter, default: Mdx },
     {
