@@ -4,7 +4,7 @@ import { RootProvider } from 'fumadocs-ui/provider/react-router';
 import { DocsLayout } from 'fumadocs-ui/layouts/docs';
 import { HomeLayout } from 'fumadocs-ui/layouts/home';
 
-export const appName = '题库 ◦ 柳';
+export const appName = '杨 ◦ 柳';
 export const docsRoute = '/docs';
 export const docsContentRoute = '/llms.mdx/docs';
 export const docsApiRoute = '/api/docs';
