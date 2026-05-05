@@ -1,0 +1,9 @@
+{
+    "title": "常识",
+    "description": "常识",
+    "root": true,
+    "pages": [
+        "index",
+        "..."
+    ]
+}

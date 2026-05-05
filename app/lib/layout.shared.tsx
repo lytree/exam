@@ -9,7 +9,7 @@ export function baseOptions(): BaseLayoutProps {
       transparentMode: "always",
     },
     links: [
-      { text: '常识', url: '/docsd/commonsense/' },
+      { text: '常识', url: '/docs/commonsense/' },
       { text: '资料分析', url: '/docs/dataanalysis/' },
       { text: '言语理解', url: '/docs/inferring/' },
       { text: '数量', url: '/docs/quantity/' },

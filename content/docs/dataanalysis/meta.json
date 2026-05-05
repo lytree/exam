@@ -1,0 +1,9 @@
+{
+    "title": "资料分析",
+    "description": "资料分析",
+    "root": true,
+    "pages": [
+        "index",
+        "..."
+    ]
+}

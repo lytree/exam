@@ -1,6 +1,10 @@
 {
     "pages": [
-        "index",
-        "..."
+        "commonsense",
+        "dataanalysis",
+        "fenbi",
+        "inferring",
+        "lalognosis",
+        "political"
     ]
 }

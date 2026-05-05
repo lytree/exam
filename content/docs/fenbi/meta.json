@@ -1,0 +1,9 @@
+{
+    "title": "模考",
+    "description": "模考",
+    "root": true,
+    "pages": [
+        "index",
+        "..."
+    ]
+}
